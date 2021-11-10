@@ -1,3 +1,5 @@
+
+
 h1 {
     text-align: center;
     text-size-adjust: 200px;
@@ -12,7 +14,7 @@ div{
 }
 .top{
     background-color: lightblue;
-    flex: ;    
+   
 
 }
 .center{
@@ -26,4 +28,8 @@ div{
 
 img.octocat {
     height: 200px;
+}
+footer{
+    text-align: center;
+    color: red;
 }
